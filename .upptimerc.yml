@@ -4,7 +4,7 @@ repo: upptimes # The name of this repository
 
 sites:
   - name: GEF - ADP
-    url: ttps://api-adp.gurujifoundation.in/actuator/health
+    url: https://api-adp.gurujifoundation.in/actuator/health
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
