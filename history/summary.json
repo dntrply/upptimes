@@ -4,19 +4,19 @@
     "url": "https://api-adp.gurujifoundation.in/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-adp.gurujifoundation.in.ico",
     "slug": "gef-adp",
-    "status": "down",
-    "uptime": "90.65%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "90.65%",
-    "time": 4509,
-    "timeDay": 3231,
-    "timeWeek": 2739,
-    "timeMonth": 3739,
-    "timeYear": 4509,
+    "status": "up",
+    "uptime": "90.56%",
+    "uptimeDay": "88.55%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "90.47%",
+    "uptimeYear": "90.56%",
+    "time": 4497,
+    "timeDay": 2755,
+    "timeWeek": 2692,
+    "timeMonth": 3712,
+    "timeYear": 4497,
     "dailyMinutesDown": {
-      "2025-07-20": 76,
+      "2025-07-20": 149,
       "2025-07-19": 116,
       "2025-07-18": 177,
       "2025-07-17": 68,
@@ -52,8 +52,7 @@
       "2025-06-17": 102,
       "2025-06-16": 115,
       "2025-06-15": 119,
-      "2025-06-14": 236,
-      "2025-06-13": 15
+      "2025-06-14": 236
     }
   }
 ]
