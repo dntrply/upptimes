@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-adp.gurujifoundation.in.ico",
     "slug": "gef-adp",
     "status": "up",
-    "uptime": "93.07%",
-    "uptimeDay": "85.94%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "88.81%",
-    "uptimeYear": "93.07%",
-    "time": 4152,
-    "timeDay": 3718,
-    "timeWeek": 4193,
-    "timeMonth": 3293,
-    "timeYear": 4152,
+    "uptime": "93.09%",
+    "uptimeDay": "89.42%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "88.85%",
+    "uptimeYear": "93.09%",
+    "time": 4145,
+    "timeDay": 3407,
+    "timeWeek": 4416,
+    "timeMonth": 3296,
+    "timeYear": 4145,
     "dailyMinutesDown": {
-      "2025-08-13": 170,
+      "2025-08-13": 156,
       "2025-08-12": 91,
       "2025-08-11": 115,
       "2025-08-10": 87,
@@ -53,7 +53,7 @@
       "2025-07-08": 298,
       "2025-07-07": 255,
       "2025-07-06": 395,
-      "2025-07-05": 21
+      "2025-07-05": 63
     }
   }
 ]
