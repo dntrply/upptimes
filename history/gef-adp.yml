@@ -1,7 +1,7 @@
 url: https://api-adp.gurujifoundation.in/actuator/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-05T06:29:48.430Z
+status: up
+code: 200
+responseTime: 3504
+lastUpdated: 2025-09-05T06:42:42.844Z
 startTime: 2025-06-11T14:38:41.894Z
 generator: Upptime <https://github.com/upptime/upptime>
